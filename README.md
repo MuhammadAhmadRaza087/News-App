@@ -53,5 +53,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [gnews.io](https://gnews.io) for providing the news API.
-
-Feel free to customize the README according to your project's specific details and add any additional information that you think would be helpful for users or contributors.
